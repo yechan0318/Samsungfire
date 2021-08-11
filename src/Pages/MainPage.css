@@ -1,0 +1,65 @@
+.fontB {
+  color: #000;
+}
+.font-size-13 {
+  font-size: 13px;
+}
+
+.ad {
+  background-color: darkgray;
+  height: 100%;
+}
+.menu {
+  background-color: darkgreen;
+  position: relative;
+}
+.more {
+  background-color: darkgreen;
+  height: 37px;
+}
+.banner {
+  background-color: #f3f8fd;
+  height: 834.7px;
+  padding: 3rem 1.5rem 3rem;
+  width: 100%;
+}
+.font-size-27 {
+  font-size: 27px;
+}
+.font-size-24 {
+  font-size: 24px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+.menu-line {
+  background-color: #0e3058;
+  color: white;
+  font-size: 11px;
+  text-align: center;
+  line-height: 13px;
+}
+.menu-box {
+  border-right: 1px solid #1a3b61;
+  border-bottom: 1px solid #1a3b61;
+  width: 25%;
+  padding: 13px;
+}
+.banner-image {
+  display: block;
+  max-width: 100%;
+}
+.banner-wrap {
+  width: 100%;
+  box-shadow: 1px 0 10px rgb(0 0 0 / 3%);
+  position: relative;
+  display: block;
+  color: #000;
+  margin-bottom: 1rem;
+}
+.banner-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
